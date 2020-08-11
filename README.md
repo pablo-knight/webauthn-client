@@ -12,3 +12,5 @@ This line is for testing building packages with submodule within
 3rd liner for checking this bizarre handling of submodules
 
 4th line for checking update submodule update
+
+5th line check
